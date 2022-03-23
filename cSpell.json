@@ -1,6 +1,18 @@
 {
   "version": "0.2",
   "language": "en",
-  "words": [],
-  "ignorePaths": ["./node_modules/**", ".git", ".vscode", "cSpell.json"]
+  "words": [
+    "commitlint",
+    "pinia",
+    "rushstack",
+    "vite",
+    "vitejs",
+    "vitest"
+  ],
+  "ignorePaths": [
+    "./node_modules/**",
+    ".git",
+    ".vscode",
+    "cSpell.json"
+  ]
 }
